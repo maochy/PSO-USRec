@@ -1,0 +1,17 @@
+SlopeOne:
+         SlopeOne approach
+
+QoS_Prediction_based_on_Mean_for_Cloud_Service:
+         1.UMEAN approach
+         2.IMEAN approach
+         3.GMEAN approach
+
+QoS_Prediction_based_on_CF_for_Cloud_Service:
+         1.UPCC approach
+         2.IPCC approach
+         3.UIPCC approach
+
+QoS_Prediction_base_on_Swarm_Intelligence_Search_for_Cloud_Services:
+         1.PSO_URec approach
+         2.PSO_SRec approach
+         3.PSO_USRec approach
